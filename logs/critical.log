@@ -1,0 +1,1158 @@
+
+
+Date: 2017-07-05 11:51:35
+Level: ERROR
+Text: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен. 
+#0 C:\OpenServer\domains\myblog\core\DB.php(30): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\OpenServer\domains\myblog\core\DB.php(16): core\DB::connect()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(21): core\DB::get()
+#3 C:\OpenServer\domains\myblog\core\Application.php(27): controller\PostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-07-05 11:51:44
+Level: ERROR
+Text: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен. 
+#0 C:\OpenServer\domains\myblog\core\DB.php(30): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\OpenServer\domains\myblog\core\DB.php(16): core\DB::connect()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(21): core\DB::get()
+#3 C:\OpenServer\domains\myblog\core\Application.php(27): controller\PostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-07-05 12:15:57
+Level: ERROR
+Text: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен. 
+
+*****************
+
+Date: 2017-07-05 16:26:05
+Level: ERROR
+Text: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен. 
+#0 C:\OpenServer\domains\myblog\core\DB.php(30): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\OpenServer\domains\myblog\core\DB.php(16): core\DB::connect()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(22): core\DB::get()
+#3 C:\OpenServer\domains\myblog\core\Application.php(33): controller\PostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-07-06 11:24:35
+Level: ERROR
+Text: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен. 
+#0 C:\OpenServer\domains\myblog\core\DB.php(30): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\OpenServer\domains\myblog\core\DB.php(16): core\DB::connect()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(22): core\DB::get()
+#3 C:\OpenServer\domains\myblog\core\Application.php(33): controller\PostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-07-06 12:26:19
+Level: ERROR
+Text: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен. 
+#0 C:\OpenServer\domains\myblog\core\DB.php(30): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\OpenServer\domains\myblog\core\DB.php(16): core\DB::connect()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(22): core\DB::get()
+#3 C:\OpenServer\domains\myblog\core\Application.php(33): controller\PostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-07-06 12:27:04
+Level: ERROR
+Text: could not find driver
+#0 C:\OpenServer\domains\myblog\core\DB.php(30): PDO->__construct('myzsql:host=loc...', 'root', '', Array)
+#1 C:\OpenServer\domains\myblog\core\DB.php(16): core\DB::connect()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(22): core\DB::get()
+#3 C:\OpenServer\domains\myblog\core\Application.php(33): controller\PostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-07-06 12:28:30
+Level: ERROR
+Text: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен. 
+#0 C:\OpenServer\domains\myblog\core\DB.php(30): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\OpenServer\domains\myblog\core\DB.php(16): core\DB::connect()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(22): core\DB::get()
+#3 C:\OpenServer\domains\myblog\core\Application.php(33): controller\PostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-07-06 12:30:55
+Level: ERROR
+Text: SQLSTATE[HY000] [1049] Unknown database 'blodg'
+#0 C:\OpenServer\domains\myblog\core\DB.php(30): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\OpenServer\domains\myblog\core\DB.php(16): core\DB::connect()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(22): core\DB::get()
+#3 C:\OpenServer\domains\myblog\core\Application.php(33): controller\PostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-07-06 12:36:02
+Level: ERROR
+Text: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен. 
+#0 C:\OpenServer\domains\myblog\core\DB.php(30): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\OpenServer\domains\myblog\core\DB.php(16): core\DB::connect()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(33): core\DB::get()
+#3 C:\OpenServer\domains\myblog\core\Application.php(33): controller\PostController->oneAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-07-06 12:36:12
+Level: ERROR
+Text: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен. 
+#0 C:\OpenServer\domains\myblog\core\DB.php(30): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\OpenServer\domains\myblog\core\DB.php(16): core\DB::connect()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(33): core\DB::get()
+#3 C:\OpenServer\domains\myblog\core\Application.php(33): controller\PostController->oneAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-07-06 12:39:57
+Level: ERROR
+Text: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Этот хост неизвестен. 
+#0 C:\OpenServer\domains\myblog\core\DB.php(30): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\OpenServer\domains\myblog\core\DB.php(16): core\DB::connect()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(33): core\DB::get()
+#3 C:\OpenServer\domains\myblog\core\Application.php(33): controller\PostController->oneAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-07-22 12:03:04
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(55): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(64): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(35): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-07-22 12:03:37
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(55): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(64): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(35): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-07-22 12:09:52
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(55): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(64): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(35): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-20 13:47:53
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(118): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\core\User.php(126): core\User->checkAuth()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(85): core\User->can('add_article')
+#3 C:\OpenServer\domains\myblog\core\Application.php(35): controller\PostController->addAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-20 13:48:28
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(118): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\core\User.php(126): core\User->checkAuth()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(85): core\User->can('add_article')
+#3 C:\OpenServer\domains\myblog\core\Application.php(35): controller\PostController->addAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-20 13:48:48
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(118): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\core\User.php(126): core\User->checkAuth()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(85): core\User->can('add_article')
+#3 C:\OpenServer\domains\myblog\core\Application.php(35): controller\PostController->addAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-20 13:53:06
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(118): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\core\User.php(126): core\User->checkAuth()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(85): core\User->can('add_article')
+#3 C:\OpenServer\domains\myblog\core\Application.php(35): controller\PostController->addAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-20 13:58:38
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(118): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\core\User.php(126): core\User->checkAuth()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(85): core\User->can('VIEW_ADMIN')
+#3 C:\OpenServer\domains\myblog\core\Application.php(35): controller\PostController->addAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-20 14:09:30
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(118): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\core\User.php(126): core\User->checkAuth()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(85): core\User->can('add_article')
+#3 C:\OpenServer\domains\myblog\core\Application.php(35): controller\PostController->addAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-20 14:23:56
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(118): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\core\User.php(126): core\User->checkAuth()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(85): core\User->can('add_article')
+#3 C:\OpenServer\domains\myblog\core\Application.php(35): controller\PostController->addAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-20 14:43:07
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(118): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\core\User.php(126): core\User->checkAuth()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(66): core\User->can('add_article')
+#3 C:\OpenServer\domains\myblog\core\Application.php(35): controller\PostController->addAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-20 14:52:02
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(118): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\core\User.php(126): core\User->checkAuth()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(66): core\User->can('add_article')
+#3 C:\OpenServer\domains\myblog\core\Application.php(35): controller\PostController->addAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-20 14:53:58
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(118): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\core\User.php(126): core\User->checkAuth()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(66): core\User->can('add_article')
+#3 C:\OpenServer\domains\myblog\core\Application.php(35): controller\PostController->addAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-20 14:56:34
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(118): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\core\User.php(126): core\User->checkAuth()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(66): core\User->can('add_article')
+#3 C:\OpenServer\domains\myblog\core\Application.php(35): controller\PostController->addAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-20 15:00:42
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(118): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\core\User.php(126): core\User->checkAuth()
+#2 C:\OpenServer\domains\myblog\controller\PostController.php(66): core\User->can('add_article')
+#3 C:\OpenServer\domains\myblog\core\Application.php(35): controller\PostController->addAction()
+#4 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-26 13:13:59
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(66): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-26 13:22:47
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(66): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-26 13:22:52
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(66): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-26 13:23:02
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(66): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-26 13:23:18
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(66): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-26 13:50:40
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(66): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-26 13:53:10
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(66): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-26 13:53:13
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(66): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-26 13:53:21
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(66): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-26 15:39:02
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-26 15:46:09
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-26 15:47:33
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-26 15:48:27
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-26 15:48:35
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-26 15:50:20
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-26 15:50:28
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-26 15:54:57
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-26 16:42:16
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-26 16:47:58
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-26 16:48:31
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-26 17:41:11
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-27 10:13:31
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-27 10:14:27
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-27 10:14:30
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-27 10:14:45
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-27 10:15:14
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-27 10:15:24
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-27 12:32:25
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(44): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(19): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-29 10:38:24
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(45): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-29 10:40:16
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(45): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-29 10:42:29
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(69): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(59): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(45): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-31 12:32:28
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(71): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(61): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(45): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-31 12:44:47
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\core\User.php(71): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\controller\UserController.php(61): core\User->login()
+#2 C:\OpenServer\domains\myblog\core\Application.php(45): controller\UserController->loginAction()
+#3 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#4 {main}
+*****************
+
+Date: 2017-08-31 13:10:10
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\controller\AdminPostController.php(62): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->addAction()
+#2 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#3 {main}
+*****************
+
+Date: 2017-08-31 13:20:26
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\controller\AdminPostController.php(106): model\BaseModel->edit(4, Array)
+#1 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->editAction()
+#2 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#3 {main}
+*****************
+
+Date: 2017-08-31 13:23:20
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\controller\AdminPostController.php(106): model\BaseModel->edit(4, Array)
+#1 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->editAction()
+#2 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#3 {main}
+*****************
+
+Date: 2017-08-31 13:23:27
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\controller\AdminPostController.php(106): model\BaseModel->edit(4, Array)
+#1 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->editAction()
+#2 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#3 {main}
+*****************
+
+Date: 2017-08-31 13:23:40
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\controller\AdminPostController.php(106): model\BaseModel->edit(4, Array)
+#1 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->editAction()
+#2 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#3 {main}
+*****************
+
+Date: 2017-08-31 14:06:42
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:11:50
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:11:51
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:11:52
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:11:58
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:19:32
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:19:32
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:19:33
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:21:57
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\UserModel.php(59): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\UserModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:21:58
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\UserModel.php(59): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\UserModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:21:58
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\UserModel.php(59): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\UserModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:21:59
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\UserModel.php(59): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\UserModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:22:18
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:22:43
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:25:32
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:25:33
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:25:33
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:25:33
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:25:34
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:25:34
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:25:35
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:25:52
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:25:53
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:25:53
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:25:53
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:25:54
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:25:54
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:25:54
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:25:55
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:25:59
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:26:15
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:26:15
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:26:15
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:26:15
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:26:16
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:26:16
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:27:21
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:29:00
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:29:01
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:29:01
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:29:03
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\BaseModel.php(54): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\BaseModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:33:43
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\UserModel.php(59): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\UserModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:33:44
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\UserModel.php(59): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\UserModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 14:33:44
+Level: ERROR
+Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dt' in 'order clause'
+#0 C:\OpenServer\domains\myblog\core\DBDriver.php(35): PDOStatement->execute(Array)
+#1 C:\OpenServer\domains\myblog\model\UserModel.php(59): core\DBDriver->Query('SELECT * FROM u...')
+#2 C:\OpenServer\domains\myblog\controller\AdminPostController.php(20): model\UserModel->getAll()
+#3 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->indexAction()
+#4 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#5 {main}
+*****************
+
+Date: 2017-08-31 15:03:02
+Level: ERROR
+Text: Validation exception
+#0 C:\OpenServer\domains\myblog\controller\AdminPostController.php(63): model\BaseModel->insert(Array)
+#1 C:\OpenServer\domains\myblog\core\Application.php(45): controller\AdminPostController->addAction()
+#2 C:\OpenServer\domains\myblog\index.php(18): core\Application->run()
+#3 {main}
+*****************
