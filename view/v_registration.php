@@ -53,7 +53,7 @@
 					class = "error"
 				<?php endif;?>	
 			>
-				<p>Введите ваш пароль еще раз:</p>
+				<p>Введите пароль еще раз:</p>
 				<?php if(isset($errors['password'])):?>
 					<p class = "error">
 						<?=$errors['password']?>
